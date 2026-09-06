@@ -1,0 +1,4 @@
+{
+  "tests/test_skill_regressions.py::SkillRegressionTests::test_formal_qa_bootstrap_precedes_attachment_work": true,
+  "assets/api-starters/pytest": true
+}
